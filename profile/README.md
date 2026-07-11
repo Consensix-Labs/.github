@@ -1,22 +1,24 @@
 <div align="center">
-
+<br>
 <!--
   Logo adapts to the viewer's GitHub theme. Both assets already exist on the site.
   For a wider banner instead, ConsensixLabs-og.png (the 1200x630 OG image) works as-is.
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://consensixlabs.com/ConsensixLabs-light.png">
-  <img alt="Consensix Labs" src="https://consensixlabs.com/ConsensixLabs.png" width="160">
+  <img alt="Consensix Labs" src="https://consensixlabs.com/ConsensixLabs.png" width="72">
 </picture>
-
+<br>
+<br>
 <!--
   Wordmark: "Consensix Labs" in Roboto Condensed 600, letter-spacing -0.05em,
   outlined to paths so GitHub renders it exactly (README markdown strips web fonts).
-  Commit both SVGs alongside this file in profile/ for the raw URLs below to resolve.
+  Width tracks the site's proportion (~6.15x the mark). Both SVGs must be committed
+  alongside this file in profile/ for the raw URLs below to resolve.
 -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Consensix-Labs/.github/raw/main/profile/consensix-wordmark-darkmode.svg">
-  <img alt="Consensix Labs" src="https://github.com/Consensix-Labs/.github/raw/main/profile/consensix-wordmark-lightmode.svg" width="240">
+  <img alt="Consensix Labs" src="https://github.com/Consensix-Labs/.github/raw/main/profile/consensix-wordmark-lightmode.svg" width="440">
 </picture>
 
 ### Practical Applications of Blockchain Technology
