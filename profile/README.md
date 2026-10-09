@@ -47,7 +47,7 @@ code, and ships open-source tooling that other builders can use directly.
 
 **SDKs & developer tooling**
 - [**pyiota**](https://github.com/Consensix-Labs/pyiota) — Python SDK for IOTA Rebased ([`iota-rebased`](https://pypi.org/project/iota-rebased/) on PyPI).
-- **Local Testing Starter Packs** — Docker Compose setups for spinning up local nodes: [Bitcoin](https://github.com/Consensix-Labs/Bitcoin-Local-Testing-Starter-Pack), [Ethereum](https://github.com/Consensix-Labs/Ethereum-Local-Testing-Starter-Pack), [IOTA](https://github.com/Consensix-Labs/IOTA-Local-Testing-Starter-Pack).
+- **Local Testing Starter Packs** — Docker Compose setups for spinning up local nodes: [Bitcoin](https://github.com/Consensix-Labs/Bitcoin-Local-Testing-Starter-Pack), [Ethereum](https://github.com/Consensix-Labs/Ethereum-Local-Testing-Starter-Pack), [IOTA](https://github.com/Consensix-Labs/IOTA-Local-Testing-Starter-Pack), [Solana](https://github.com/Consensix-Labs/Solana-Local-Testing-Starter-Pack)
 - [**Multi-chain Address Analyzer**](https://github.com/Consensix-Labs/Multi-chain-Address-Analyzer) — Client-side address inspection across chains.
 - [**pygments-lexer-move**](https://github.com/Consensix-Labs/pygments-lexer-move) — Move syntax highlighting for Pygments (Sui / IOTA Rebased).
 
